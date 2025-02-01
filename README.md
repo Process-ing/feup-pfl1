@@ -1,6 +1,6 @@
 # Functional and Logical Programming (PFL) Project 1
 
-> Curricular Unit: [Functional and Logic Programming - 2024/25 1S](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541889)<br>
+> Curricular Unit: [Functional and Logic Programming - 2024/25 1S](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541889) (1st Project)<br>
 > Faculty: [FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial)<br>
 > Professor: [Daniel Castro Silva](https://sigarra.up.pt/feup/en/func_geral.formview?p_codigo=424415)<br>
 > Authors: [Bruno Oliveira](https://github.com/Process-ing), [Rodrigo Silva](https://github.com/racoelhosilva)<br>
