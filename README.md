@@ -155,3 +155,8 @@ main = hspec $ do
 ## References
 
 1. Fethi Rabhi and Guy Lapalme. *Algorithms: a functional programming approach.* Addison-Wesley, 2nd edition, 1999.
+
+## Tips and Tricks (for anyone doing a similar project)
+
+- This was basically a glorified algorithm design project. Before properly implementing the functions, think well about how will you solve the problem efficiently, considering the available data structures in Haskell. Consider the optimal solutions for unrestricted languages as a basis for your own. Read the recommended books in the specification (since they most likely have the solutions you seek), and generative AI tools can help too.
+- To test our solutions, we configured automatic tests using HSpec and Quickcheck. I really recommend doing so for these types of project, as it will take a lot of work in testing your code against a lot of cases, and ensuring small changes do not break everything.
